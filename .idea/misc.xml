@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GradleLocalSettings">
-    <option name="modificationStamps">
-      <map>
-        <entry key="$PROJECT_DIR$/../RxJava" value="2891907994000" />
-        <entry key="$PROJECT_DIR$/../syncify-train-status" value="1448928503000" />
-        <entry key="$USER_HOME$/Projects/Grail/helloworld" value="1440642811000" />
-        <entry key="$USER_HOME$/Projects/Java/gs-actuator-service/complete" value="2871758972000" />
-      </map>
-    </option>
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
